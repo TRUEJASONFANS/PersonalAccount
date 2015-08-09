@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jason\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-6d278958b18fb7adac53950985e9f36e04cc32f6.jar" />
+    </item>
+    <item
+        jar="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-f5ff4fb1c2636e14b5055ce86f610cb223af777d.jar" />
+    </item>
+    <item
+        jar="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\classes-12cc21161fbb72d54f1d48eb3e2a58f61129beaf.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-dd5c091d22e39eee27cc576d39378774c7f1cbe6.jar" />
+    </item>
+
+</items>
