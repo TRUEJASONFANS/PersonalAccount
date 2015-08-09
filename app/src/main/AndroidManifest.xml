@@ -2,26 +2,40 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.truejasonfans.personalaccount"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="19" />
 
+    <!-- To access Google+ APIs: -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
     <application
+        android:name="com.activeandroid.app.Application"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme"
-        android:name="com.activeandroid.app.Application"
-      >
-        <meta-data android:name="AA_DB_NAME" android:value="personalAccount.db" />
-        <meta-data android:name="AA_DB_VERSION" android:value="5" />
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="personalAccount.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="5" />
 
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name" >
-            <intent-filter>
+            android:label="@string/app_name">
+        <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />

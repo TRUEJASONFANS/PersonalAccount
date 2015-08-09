@@ -1,33 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2">
 
     <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false" revision="21.1.1" sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e810abd1abbe1395fbd588220b3c399974104852.jar" />
+    </item>
+    <item
+        jar="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false" revision="21.1.1" sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\classes-929445d46280c966b2bd9d6ba614e13ed1c8906c.jar" />
+    </item>
+    <item
+        jar="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false" revision="21.1.1" sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-a727e355ccbdda5251efededa8eb5afcddc05c72.jar" />
+    </item>
+    <item
         jar="C:\Users\jason\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
-        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-6d278958b18fb7adac53950985e9f36e04cc32f6.jar" />
+        jumboMode="false" revision="21.1.1" sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-6d278958b18fb7adac53950985e9f36e04cc32f6.jar" />
     </item>
     <item
-        jar="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-f5ff4fb1c2636e14b5055ce86f610cb223af777d.jar" />
+        jar="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false" revision="21.1.1" sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\classes-dd3d9b398650430880f99f87f1122b018b339038.jar" />
     </item>
     <item
-        jar="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="af64527b748983a75de9c0756e9768b56b240a49">
-        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\classes-12cc21161fbb72d54f1d48eb3e2a58f61129beaf.jar" />
+        jar="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false" revision="21.1.1" sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\classes-9353c30ff90006a5e86ad7ba3d4e8d6fc0e9aa99.jar" />
     </item>
     <item
-        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-dd5c091d22e39eee27cc576d39378774c7f1cbe6.jar" />
+        jar="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false" revision="21.1.1" sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex
+            dex="D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d0a12e55273d60c30c8cbc4b371f2f4f1e839b82.jar" />
     </item>
 
 </items>

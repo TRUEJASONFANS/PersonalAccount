@@ -1,5 +1,8 @@
-D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\classes\debug
-D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-6d278958b18fb7adac53950985e9f36e04cc32f6.jar
-D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-f5ff4fb1c2636e14b5055ce86f610cb223af777d.jar
-D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\classes-12cc21161fbb72d54f1d48eb3e2a58f61129beaf.jar
-D:\Users\jason\AndroidstudioProjects\PersonalAccount\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-dd5c091d22e39eee27cc576d39378774c7f1cbe6.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\classes\debug
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e810abd1abbe1395fbd588220b3c399974104852.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-6d278958b18fb7adac53950985e9f36e04cc32f6.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-a727e355ccbdda5251efededa8eb5afcddc05c72.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d0a12e55273d60c30c8cbc4b371f2f4f1e839b82.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\classes-dd3d9b398650430880f99f87f1122b018b339038.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\classes-9353c30ff90006a5e86ad7ba3d4e8d6fc0e9aa99.jar
+D:\Users\jason\AndroidstudioProjects\BasePersonalAccount\app\build\intermediates\pre-dexed\debug\classes-929445d46280c966b2bd9d6ba614e13ed1c8906c.jar
